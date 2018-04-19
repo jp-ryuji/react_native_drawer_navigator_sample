@@ -1,0 +1,3 @@
+rootProject.name = 'react_native_drawer_navigator_sample'
+
+include ':app'
